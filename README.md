@@ -1,0 +1,1 @@
+# DB2_DBA_Smartcuts
